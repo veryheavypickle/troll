@@ -25,3 +25,7 @@ This script will attempt to start an instance of `zsh` upon opening a new termin
 ### open_all 💣💣
 This is a script that will look for everything, then open it. The bomb rating isn't high because just finding all the files is a relatively slow process.
 
+
+### full_mem 💣💣
+First merge by [rcabezas29](https://github.com/veryheavypickle/troll/commits?author=rcabezas29). Havne't tested it, am scared.
+
