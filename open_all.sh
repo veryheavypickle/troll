@@ -1,4 +1,4 @@
-troll () {
+open_all () {
 	local apps=($(find /Applications -name "*.app" -maxdepth 1))
 	local files=($(find / -name "*"))
 	for app in "${apps[@]}"; do
@@ -8,4 +8,4 @@ troll () {
    		open $file -a "TextEdit"
 	done
 }
-troll
+open_all
