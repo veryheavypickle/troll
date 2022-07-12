@@ -29,3 +29,6 @@ This is a script that will look for everything, then open it. The bomb rating is
 ### full_mem 💣💣
 First merge by [rcabezas29](https://github.com/veryheavypickle/troll/commits?author=rcabezas29). Havne't tested it, am scared.
 
+### him 💣
+Goose.
+
