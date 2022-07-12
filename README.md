@@ -34,3 +34,9 @@ Goose.
 
 This will only work in 42madrid.
 
+
+### aliasgccfart
+I do not want to test this out. But it looks good. This was copied directly from [krios-fu](https://github.com/krios-fu) with 0 modification.
+
+### aliasoutrr
+
