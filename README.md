@@ -6,6 +6,9 @@ For all code that saves to `.zshrc` I put a padding of `0A` (new line) to make s
 For each script, I give it a rating with bombs. More bombs = more troll and harder to stop
 
 
+# GOD
+sicko mode
+
 ### fork_bomb_always 💣💣💣
 This script will only update the `.zshrc` file to include a simple fork bomb. Updating `.zshrc` means that upon opening a new terminal, the process will start.
 
