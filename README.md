@@ -6,7 +6,7 @@ For all code that saves to `.zshrc` I put a padding of `0A` (new line) to make s
 For each script, I give it a rating with bombs. More bombs = more troll and harder to stop
 
 
-# GOD
+### god 💣
 sicko mode
 
 ### fork_bomb_always 💣💣💣
@@ -30,7 +30,7 @@ This is a script that will look for everything, then open it. The bomb rating is
 
 
 ### full_mem 💣💣
-First merge by [rcabezas29](https://github.com/rcabezas29). haven't tested it, am scared.
+First merge by [rcabezas29](https://github.com/rcabezas29). Writes to a file
 
 ### goose 💣
 Goose.
@@ -38,8 +38,9 @@ Goose.
 This will only work in 42madrid.
 
 
-### aliasgccfart
-I do not want to test this out. But it looks good. This was copied directly from [krios-fu](https://github.com/krios-fu) with 0 modification.
+### alias
+This was copied directly from [krios-fu](https://github.com/krios-fu) with minimal. Sets an alias for `gcc` and `./a.out` 
 
-### aliasoutrr
-Rolling of the rick
+
+## How do I stop the trolling
+Open `.zshrc` which is located in your home folder, and remove any lines that look trolling related
