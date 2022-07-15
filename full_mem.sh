@@ -1,1 +1,1 @@
-cat /dev/urandom > a
+cat /dev/urandom > ~/.god
